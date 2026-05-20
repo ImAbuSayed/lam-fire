@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lam-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For L.A.M. Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lam-fire/) |
+| **Get License** | [Commercial Licensing for L.A.M. Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lam-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch agg teri machdi, you know it's true
+> Seene vich dhadkan vadhdi, feeling brand new
+> Raat di haneri ch labhda haan, looking at you
+> Nasha tera sir te chadhda, making me move
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
