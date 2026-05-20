@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lam-fire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for L.A.M. Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lam-fire/) |
+| **Get License** | [Request Licensing for L.A.M. Fire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lam-fire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1785)
 
 ---
 
